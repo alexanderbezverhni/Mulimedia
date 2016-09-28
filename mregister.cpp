@@ -23,6 +23,7 @@ void mregister::add()
     
     cout << "Type Name, Model, and Code" << endl;
     
+//Why is this not working?
     cin >> obj1;
     
 };
